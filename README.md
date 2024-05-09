@@ -35,4 +35,4 @@ Para visualizar e interagir com o projeto localmente:
 
 1. Clone o repositório para o seu ambiente de desenvolvimento:
    ```bash
-   git clone <URL_do_repositorio>
+   git clone <https://github.com/LhSalerno/landing-page---mindfulness.git>
